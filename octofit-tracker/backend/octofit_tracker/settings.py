@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-qbweflomprq@iiu=nqwd5@h1tf&r8qb@xnvs7fd&20m&l_tsvg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'localhost', '127.0.0.1', 'silver-space-guide-8000.app.github.dev']
 
 
 # Application definition
